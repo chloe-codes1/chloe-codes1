@@ -1,20 +1,7 @@
 ### Hi there 👋 
-<br>
 
-
-<details>
-  <summary> Github Stats  <i>(:point_left: Click)</i> </summary>
-
-![Chloe's github stats](https://github-readme-stats.vercel.app/api?username=chloe-codes1&theme=dracula&show_icons=true)
-
-</details>
 
 Welcome to my Github! I like `Linux` and `FOSS`, and I'm exploring `Cloud Tech`  ☁️
-
-<br>
-<br>
-
-
 
 <p align="center">
 Check out my repos ⬇️  
