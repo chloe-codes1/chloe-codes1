@@ -11,7 +11,7 @@ Welcome to my Github! I like `Linux` and `FOSS`, and I'm exploring `Cloud Tech` 
 
   [![GOLANG](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)](https://github.com/chloe-codes1?tab=repositories&q=&type=&language=go&sort=)
   [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/chloe-codes1?tab=repositories&q=&type=&language=python&sort=)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-squre&for-the-badge&logo=typescript&logoColor=white)](https://github.com/chloe-codes1?tab=repositories&q=&type=&language=typescript&sort=)
+  [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/chloe-codes1?tab=repositories&q=&type=&language=java&sort=)
   [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&for-the-badge&logo=amazon-aws&logoColor=white)](https://chloe-codes1.gitbook.io/til/aws)
  
  
