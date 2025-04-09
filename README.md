@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25">
 
- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchloe-codes1&count_bg=%2379C83D&title_bg=%23555555&icon=gradle.svg&icon_color=%23AFCDEF&title=hits&edge_flat=false"> [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://chloe-codes1.gitbook.io/til/)](https://chloe-codes1.gitbook.io/til/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://chloe-codes1.gitbook.io/til/)](https://chloe-codes1.gitbook.io/til/)
 [![GitHub followers](https://img.shields.io/github/followers/chloe-codes1.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/chloe-codes1?tab=followers)
 
 Welcome to my Github! I like `Linux` and `FOSS`, and I'm exploring `Cloud Tech`  ☁️
